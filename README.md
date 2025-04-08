@@ -1,2 +1,4 @@
-# Library_name
-Library description goes here.
+# Joystick
+Arduino library to use analog and digital joysticks.
+> [!IMPORTANT]
+> This version does not currently support digital joysticks
